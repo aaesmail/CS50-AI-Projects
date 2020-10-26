@@ -1,5 +1,5 @@
 # CS50-AI-Projects
-## This is a collection of projects from the CS50 Introduction to AI 2020 Course from Harvard Universtiy.
+## This is a collection of projects from the CS50 Introduction to AI 2020 Course from Harvard University.
 ### Course Link: https://cs50.harvard.edu/ai/2020/
 
 * Week 0 -> Search
