@@ -10,6 +10,8 @@ This course explores the concepts and algorithms at the foundation of modern art
  machine learning as well as knowledge of artificial intelligence principles that enable them to design intelligent
  systems of their own.
  
+ # My Gradebook for Completing the Course:
+ 
  ![Grade](Grade.png)
 
 # Notes
