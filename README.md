@@ -9,6 +9,8 @@ This course explores the concepts and algorithms at the foundation of modern art
  incorporate them into their own Python programs. By course’s end, students emerge with experience in libraries for
  machine learning as well as knowledge of artificial intelligence principles that enable them to design intelligent
  systems of their own.
+ 
+ ![Grade](Grade.png)
 
 # Notes
 I've taken some notes on key concepts and algorithms throughout the lectures for future reference. 
